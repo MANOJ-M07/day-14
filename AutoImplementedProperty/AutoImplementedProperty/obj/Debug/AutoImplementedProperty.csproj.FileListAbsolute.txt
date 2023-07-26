@@ -1,0 +1,8 @@
+D:\simplilearn\day-14\AutoImplementedProperty\AutoImplementedProperty\bin\Debug\AutoImplementedProperty.exe.config
+D:\simplilearn\day-14\AutoImplementedProperty\AutoImplementedProperty\bin\Debug\AutoImplementedProperty.exe
+D:\simplilearn\day-14\AutoImplementedProperty\AutoImplementedProperty\bin\Debug\AutoImplementedProperty.pdb
+D:\simplilearn\day-14\AutoImplementedProperty\AutoImplementedProperty\obj\Debug\AutoImplementedProperty.csproj.AssemblyReference.cache
+D:\simplilearn\day-14\AutoImplementedProperty\AutoImplementedProperty\obj\Debug\AutoImplementedProperty.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\day-14\AutoImplementedProperty\AutoImplementedProperty\obj\Debug\AutoImplementedProperty.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-14\AutoImplementedProperty\AutoImplementedProperty\obj\Debug\AutoImplementedProperty.exe
+D:\simplilearn\day-14\AutoImplementedProperty\AutoImplementedProperty\obj\Debug\AutoImplementedProperty.pdb

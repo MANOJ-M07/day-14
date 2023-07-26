@@ -1,0 +1,8 @@
+D:\simplilearn\day-14\ConAppProperties\ConAppProperties\bin\Debug\ConAppProperties.exe.config
+D:\simplilearn\day-14\ConAppProperties\ConAppProperties\bin\Debug\ConAppProperties.exe
+D:\simplilearn\day-14\ConAppProperties\ConAppProperties\bin\Debug\ConAppProperties.pdb
+D:\simplilearn\day-14\ConAppProperties\ConAppProperties\obj\Debug\ConAppProperties.csproj.AssemblyReference.cache
+D:\simplilearn\day-14\ConAppProperties\ConAppProperties\obj\Debug\ConAppProperties.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\day-14\ConAppProperties\ConAppProperties\obj\Debug\ConAppProperties.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-14\ConAppProperties\ConAppProperties\obj\Debug\ConAppProperties.exe
+D:\simplilearn\day-14\ConAppProperties\ConAppProperties\obj\Debug\ConAppProperties.pdb

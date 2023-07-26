@@ -1,0 +1,8 @@
+D:\simplilearn\day-14\InheritanceExample\InheritanceExample\bin\Debug\InheritanceExample.exe.config
+D:\simplilearn\day-14\InheritanceExample\InheritanceExample\bin\Debug\InheritanceExample.exe
+D:\simplilearn\day-14\InheritanceExample\InheritanceExample\bin\Debug\InheritanceExample.pdb
+D:\simplilearn\day-14\InheritanceExample\InheritanceExample\obj\Debug\InheritanceExample.csproj.AssemblyReference.cache
+D:\simplilearn\day-14\InheritanceExample\InheritanceExample\obj\Debug\InheritanceExample.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\day-14\InheritanceExample\InheritanceExample\obj\Debug\InheritanceExample.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-14\InheritanceExample\InheritanceExample\obj\Debug\InheritanceExample.exe
+D:\simplilearn\day-14\InheritanceExample\InheritanceExample\obj\Debug\InheritanceExample.pdb

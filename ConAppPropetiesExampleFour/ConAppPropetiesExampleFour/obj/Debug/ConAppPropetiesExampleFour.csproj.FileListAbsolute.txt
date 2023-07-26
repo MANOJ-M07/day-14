@@ -1,0 +1,8 @@
+D:\simplilearn\day-14\ConAppPropetiesExampleFour\ConAppPropetiesExampleFour\bin\Debug\ConAppPropetiesExampleFour.exe.config
+D:\simplilearn\day-14\ConAppPropetiesExampleFour\ConAppPropetiesExampleFour\bin\Debug\ConAppPropetiesExampleFour.exe
+D:\simplilearn\day-14\ConAppPropetiesExampleFour\ConAppPropetiesExampleFour\bin\Debug\ConAppPropetiesExampleFour.pdb
+D:\simplilearn\day-14\ConAppPropetiesExampleFour\ConAppPropetiesExampleFour\obj\Debug\ConAppPropetiesExampleFour.csproj.AssemblyReference.cache
+D:\simplilearn\day-14\ConAppPropetiesExampleFour\ConAppPropetiesExampleFour\obj\Debug\ConAppPropetiesExampleFour.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\day-14\ConAppPropetiesExampleFour\ConAppPropetiesExampleFour\obj\Debug\ConAppPropetiesExampleFour.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-14\ConAppPropetiesExampleFour\ConAppPropetiesExampleFour\obj\Debug\ConAppPropetiesExampleFour.exe
+D:\simplilearn\day-14\ConAppPropetiesExampleFour\ConAppPropetiesExampleFour\obj\Debug\ConAppPropetiesExampleFour.pdb
